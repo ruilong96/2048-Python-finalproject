@@ -1,0 +1,7 @@
+	Description: Our game is called 2048, which is quite popular a while ago. The goal of the game is to achieve 2048 by adding all the numbers together. The numbers show up in the game are the multiples of number 2. After each movement of which are four directions, it would generate a random number of 2 or 4. If there have no more movement can be made, you lose the game. The four directions are controlled be the key “w”, “a”, “s” and “d”. 
+
+	Our program is consist of two parts: interface and the logic of operation. By running the file “logics.py”, you can start enjoying the game. The logic of operation is based on the operation on a 4*4 matrix. The default movement is moving all the cells to the left. All the other movement are based on the transpose or reverse of the matrix combined with the movement to the left. The interface part is based on the tkinter module. We use the frame and grid method of the tkinter module. We appreciated the helps from Professor Exley, which allows us to use the binding method, so that we can avoiding pressing Enter in every movement. 
+
+	One thing that we think we can add is to have a score board, so that it can record all the score and the credits. The other things is to let user choose difficulty, for example, different sizes of grid. A 3*3 matrix will be harder that 4*4 matrix. Also, we can make the game endless by setting the maximum of the game to infinity. 
+
+Author: Ruling Zhuang

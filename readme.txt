@@ -4,4 +4,4 @@
 
 	One thing that we think we can add is to have a score board, so that it can record all the score and the credits. The other things is to let user choose difficulty, for example, different sizes of grid. A 3*3 matrix will be harder that 4*4 matrix. Also, we can make the game endless by setting the maximum of the game to infinity. 
 
-Author: Ruling Zhuang
+Author: Ruilong Zhuang
